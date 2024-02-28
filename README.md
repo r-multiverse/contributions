@@ -30,3 +30,6 @@ Also every hour, another GitHub Actions workflow in <https://github.com/r-releas
 
 Once your package is in `packages.json`, each new GitHub tag and release you create will publish your package to <https://r-releases.r-universe.dev> so others can install it. Please visit <https://github.com/r-releases/r-releases.r-universe.dev> and <https://r-releases.r-universe.dev> for progress and status updates on your package.
 
+# What do I do if my pull request is flagged for manual review?
+
+Sometimes, automated checks may fail, or you may deliberately be trying the change or remove a package. In all those cases, manual review is required if you intend to pursue the pull request as is. However, instead you may simply close the current pull request and submit another which passes the automated checks.
