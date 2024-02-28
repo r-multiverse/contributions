@@ -22,6 +22,12 @@ To add your package to `r-releases`, first put your package in a GitHub or GitLa
 
 To edit or remove one or more packages, submit a pull request to edit the files in the  [`packages` folder](https://github.com/r-releases/r-releases/tree/main/packages).
 
+# What do I do if my pull request is flagged for manual review?
+
+Sometimes, automated checks may fail, or you may deliberately be trying the change or remove a package. In all those cases, manual review is required if you intend to pursue the pull request as is. If your pull request is flagged for manual review, then an `r-releases` administrator will review the pull request and let you know about next steps. All we are looking for is that the package and the URL are complete and correct and that the URL attributes proper ownership. It is the responsibility of the package maintainer to implement tests that ensure it is working properly and working well with the other packages that depend on it (see test results at <https://r-releases.r-universe.dev>.
+
+If the manual review was triggered by an error you know how to fix, please close the current pull request and submit a different one. Automated checks ignore pull requests flagged for manual review, but they do process new pull requests from the beginning.
+
 # What happens next
 
 Every hour, a GitHub Actions workflow from <https://github.com/r-releases/r-releases.r-universe.dev> combs through the pull requests at <https://github.com/r-releases/r-releases/pulls> and automatically merges the ones that add new packages with correct-looking URLs. Pull requests that cannot be automatically merged are either closed or flagged for manual review. 
@@ -29,7 +35,3 @@ Every hour, a GitHub Actions workflow from <https://github.com/r-releases/r-rele
 Also every hour, another GitHub Actions workflow in <https://github.com/r-releases/r-releases.r-universe.dev> collects all the packages and URLs from the [`packages` folder](https://github.com/r-releases/r-releases/tree/main/packages) folder and builds the `packages.json` file for the R universe at <https://github.com/r-releases/r-releases.r-universe.dev>. It uses the `"branch": "*release"` field in the JSON file so that each new GitHub tag and release sends the build to the universe. Development versions are not tracked.
 
 Once your package is in `packages.json`, each new GitHub tag and release you create will publish your package to <https://r-releases.r-universe.dev> so others can install it. Please visit <https://github.com/r-releases/r-releases.r-universe.dev> and <https://r-releases.r-universe.dev> for progress and status updates on your package.
-
-# What do I do if my pull request is flagged for manual review?
-
-Sometimes, automated checks may fail, or you may deliberately be trying the change or remove a package. In all those cases, manual review is required if you intend to pursue the pull request as is. However, instead you may simply close the current pull request and submit another which passes the automated checks.
