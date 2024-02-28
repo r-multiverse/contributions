@@ -2,7 +2,7 @@ To contribute your packages to the r-releases R universe, please create a text f
 
 1. The name of the file is the package name.
 2. The file contains a single line with the package URL.
-3. The file must have a terminating newline. (A newline is added automatically if you create the file using the GitHub web interface.)
+3. The file ends with a newline character. (A terminating newline is included automatically if you create the file using the GitHub web interface.)
 
 Well-formed contributions to add packages are automatically merged every hour. If there is a problem with the automated checks, or if the goal of your pull request is to modify or remove one or more packages, then your pull request will be flagged for manual review.
 
