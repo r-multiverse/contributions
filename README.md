@@ -20,11 +20,11 @@ To add your package to `r-releases`, first put your package in a GitHub or GitLa
 
 # How to edit or remove packages
 
-To edit or remove one or more packages, submit a pull request to edit the files in the  [`packages` folder](https://github.com/r-releases/r-releases/tree/main/packages).
+To edit or remove one or more packages, submit a pull request to edit the files in the  [`packages` folder](https://github.com/r-releases/r-releases/tree/main/packages). Your pull request will need to be briefly reviewed by an `r-releases` administrator (see below).
 
 # What do I do if my pull request is flagged for manual review?
 
-Sometimes, automated checks may fail, or you may deliberately be trying the change or remove a package. In all those cases, manual review is required if you intend to pursue the pull request as is. If your pull request is flagged for manual review, then an `r-releases` administrator will review the pull request and let you know about next steps. All we are looking for is that the package and the URL are complete and correct and that the URL attributes proper ownership. It is the responsibility of the package maintainer to implement tests that ensure it is working properly and working well with the other packages that depend on it (see test results at <https://r-releases.r-universe.dev>.
+Sometimes, automated reviews of pull requests may fail, or you may deliberately be trying the change a URL or remove a package. In all those cases, manual review is required if you intend to pursue the pull request as is. If your pull request is flagged for manual review, then an `r-releases` administrator will review the pull request and let you know about next steps. All we are looking for is that the package and the URL are complete and correct and that the URL attributes proper ownership. It is the responsibility of the package maintainer to implement tests that ensure it is working properly and working well with the other packages that depend on it (see test results at <https://r-releases.r-universe.dev>.
 
 If the manual review was triggered by an error you know how to fix, please close the current pull request and submit a different one. Automated checks ignore pull requests flagged for manual review, but they do process new pull requests from the beginning.
 
