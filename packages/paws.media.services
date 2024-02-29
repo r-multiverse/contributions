@@ -1,0 +1,6 @@
+{
+  "package": "paws.media.services",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.media.services",
+  "branch": "*release"
+}

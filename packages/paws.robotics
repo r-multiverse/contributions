@@ -1,0 +1,6 @@
+{
+  "package": "paws.robotics",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.robotics",
+  "branch": "*release"
+}

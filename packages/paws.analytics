@@ -1,0 +1,6 @@
+{
+  "package": "paws.analytics",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.analytics",
+  "branch": "*release"
+}
