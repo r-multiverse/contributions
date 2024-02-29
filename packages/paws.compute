@@ -1,0 +1,6 @@
+{
+  "package": "paws.compute",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.compute",
+  "branch": "*release"
+}
