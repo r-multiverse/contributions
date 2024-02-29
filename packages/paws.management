@@ -1,0 +1,6 @@
+{
+  "package": "paws.management",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.management",
+  "branch": "*release"
+}

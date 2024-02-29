@@ -1,0 +1,6 @@
+{
+  "package": "paws.business.applications",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.business.applications",
+  "branch": "*release"
+}

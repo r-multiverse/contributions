@@ -1,0 +1,6 @@
+{
+  "package": "paws.internet.of.things",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.internet.of.things",
+  "branch": "*release"
+}

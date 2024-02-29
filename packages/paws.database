@@ -1,0 +1,6 @@
+{
+  "package": "paws.database",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.database",
+  "branch": "*release"
+}

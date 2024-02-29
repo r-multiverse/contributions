@@ -1,0 +1,6 @@
+{
+  "package": "paws.security.identity",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.security.identity",
+  "branch": "*release"
+}

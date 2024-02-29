@@ -1,0 +1,6 @@
+{
+  "package": "paws.customer.engagement",
+  "url": "https://github.com/paws-r/paws",
+  "subdir": "cran/paws.customer.engagement",
+  "branch": "*release"
+}
