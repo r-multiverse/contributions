@@ -8,4 +8,4 @@ Please visit <https://github.com/r-releases/help> for the README, documentation,
 
 # Help
 
-Please report bugs to https://github.com/r-releases/help/issues and send other feedback and questions to https://github.com/r-releases/help/discussions.
+Please report bugs to <https://github.com/r-releases/help/issues> and send other feedback and questions to <https://github.com/r-releases/help/discussions>.
