@@ -1,6 +1,0 @@
-{
-  "package": "arrow",
-  "url": "https://github.com/apache/arrow",
-  "subdir": "r",
-  "branch": "*release"
-}
