@@ -1,10 +1,10 @@
-# r-releases contribution repository
+# R-releases contribution repository
 
-This is the repository that accepts contributions to `r-releases`.
+This is the repository that accepts contributions to R-releases.
 
 # Documentation
 
-Please visit <https://github.com/r-releases/help> for the README, documentation, and code of conduct for the entire `r-releases` project.
+Please visit <https://github.com/r-releases/help> for the README, documentation, and code of conduct for the entire R-releases project.
 
 # Help
 
