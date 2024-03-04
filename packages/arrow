@@ -1,6 +1,1 @@
-{
-  "package": "arrow",
-  "url": "https://github.com/apache/arrow",
-  "subdir": "r",
-  "branch": "*release"
-}
+https://github.com/cran/arrow
