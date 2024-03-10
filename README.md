@@ -4,7 +4,7 @@ This is the repository that accepts contributions to R-releases.
 
 # Documentation
 
-Please visit <https://github.com/r-releases/help> for the README, documentation, and code of conduct for the entire R-releases project.
+Please visit <https://r-releases.github.io/> for the overview, documentation, and code of conduct for the entire R-releases project.
 
 # Help
 
