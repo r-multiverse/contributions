@@ -1,4 +1,4 @@
-# R-releases contribution repository <a href="https://r-releases.r-universe.dev"><img src="https://r-releases.github.io/logo/logo-readme.png" align="right" height="140" /></a>
+# R-releases contribution repository <a href="https://r-releases.github.io/"><img src="https://r-releases.github.io/logo/logo-readme.png" align="right" width="140" /></a>
 
 This is the repository that accepts contributions to R-releases.
 
