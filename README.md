@@ -1,6 +1,6 @@
 # R-releases contribution repository <a href="https://r-releases.github.io/"><img src="https://r-releases.github.io/logo/logo-readme.png" align="right" width="140" /></a>
 
-This is the repository that accepts contributions to R-releases.
+This is the repository that accepts package contributions to R-releases from the community.
 
 # Documentation
 
