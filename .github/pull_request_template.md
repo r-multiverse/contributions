@@ -1,1 +1,1 @@
-Please wait for the R-releases GitHub bot to review your contribution.
+Please wait for the GitHub bot to review your contribution.
