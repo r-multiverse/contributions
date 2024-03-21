@@ -1,6 +1,0 @@
-{
-  "package": "paws.migration",
-  "url": "https://github.com/paws-r/paws",
-  "subdir": "cran/paws.migration",
-  "branch": "*release"
-}

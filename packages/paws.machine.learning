@@ -1,6 +1,0 @@
-{
-  "package": "paws.machine.learning",
-  "url": "https://github.com/paws-r/paws",
-  "subdir": "cran/paws.machine.learning",
-  "branch": "*release"
-}
