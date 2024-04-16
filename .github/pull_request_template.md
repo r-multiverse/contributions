@@ -1,1 +1,1 @@
-Please wait for the GitHub bot to review your contribution.
+After creating the pull request, the R-multiverse GitHub bot will review your contribution on its next scheduled run. Thank you for your contribution!
