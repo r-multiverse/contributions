@@ -1,0 +1,6 @@
+{
+  "package": "adbcdrivermanager",
+  "url": "https://github.com/apache/arrow-adbc",
+  "subdir": "r/adbcdrivermanager",
+  "branch": "*release"
+}
