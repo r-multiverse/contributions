@@ -1,0 +1,6 @@
+{
+  "package": "adbcflightsql",
+  "url": "https://github.com/apache/arrow-adbc",
+  "subdir": "r/adbcflightsql",
+  "branch": "*release"
+}
