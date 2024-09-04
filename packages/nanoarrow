@@ -1,0 +1,6 @@
+{
+  "package": "nanoarrow",
+  "url": "https://github.com/apache/arrow-nanoarrow",
+  "subdir": "r",
+  "branch": "*release"
+}
