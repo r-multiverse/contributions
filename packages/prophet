@@ -1,0 +1,6 @@
+{
+  "package": "prophet",
+  "url": "https://github.com/facebook/prophet",
+  "subdir": "R",
+  "branch": "*release"
+}
