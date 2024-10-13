@@ -1,0 +1,6 @@
+{
+  "package": "adbcbigquery",
+  "url": "https://github.com/apache/arrow-adbc",
+  "subdir": "r/adbcbigquery",
+  "branch": "*release"
+}
