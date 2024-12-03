@@ -1,1 +1,1 @@
-https://github.com/humaniverse/DEPAHRI
+DEPAHRI was removed from R-multiverse because the latest release had "LICENSE: TBD" in the DESCRIPTION file, which is not a valid FOSS license. R-multiverse requires a valid FOSS license to ensure the copyrights of the authors are protected (see https://r-multiverse.org/aup.html#intellectual-property and https://r-multiverse.org/aup.html#enforcement-and-reporting-violations).
