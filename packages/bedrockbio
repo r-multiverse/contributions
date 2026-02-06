@@ -1,0 +1,6 @@
+{
+  "package": "bedrockbio",
+  "url": "https://github.com/bedrock-bio/bedrock-bio-client",
+  "subdir": "r",
+  "branch": "*release"
+}
