@@ -1,0 +1,6 @@
+{
+  "package": "sedonafns",
+  "url": "https://github.com/apache/sedona-db",
+  "subdir": "r/sedonafns",
+  "branch": "*release"
+}

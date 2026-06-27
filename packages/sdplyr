@@ -1,0 +1,6 @@
+{
+  "package": "sdplyr",
+  "url": "https://github.com/apache/sedona-db",
+  "subdir": "r/sdplyr",
+  "branch": "*release"
+}
