@@ -1,6 +1,5 @@
-{
-  "package": "adbcsnowflake",
-  "url": "https://github.com/apache/arrow-adbc",
-  "subdir": "r/adbcsnowflake",
-  "branch": "*release"
-}
+This package was deregistered from R-multiverse on 2026-07-30.
+The r/adbcbigquery subdirectory was removed from https://github.com/apache/arrow-adbc upstream.
+It is present in release https://github.com/apache/arrow-adbc/releases/tag/apache-arrow-adbc-23 but not https://github.com/apache/arrow-adbc/releases/tag/apache-arrow-adbc-24.
+The listing therefore no longer points to an existing source code repository.
+This file is retained as a placeholder to reserve the package name.
